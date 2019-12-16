@@ -111,7 +111,7 @@ const styles = StyleSheet.create({
     color: "white",
     fontSize: 25,
     alignItems: "center",
-    padding: 15,
+    padding: 10,
     backgroundColor: "black"
   }
 });
