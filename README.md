@@ -7,3 +7,7 @@
 
 # Profile Feature
 A different branch was created for the profile feature due to bugs. Look at the profile branch for more details.
+
+# Ticket Master Dev
+Like the profile feeature, what development that was done for the Ticket Master implementation is in the TicketMaster Branch. I ran into many issues with the JSON object that the TicketMaster API sent back.
+-Tony Buranzon
